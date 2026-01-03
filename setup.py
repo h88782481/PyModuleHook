@@ -39,7 +39,7 @@ setup(
     long_description=long_desc,
     author="ekcbw",
     author_email="u81430728@163.com",
-    url="https://github.com/ekcbw/PyModuleHook",
+    url="https://github.com/ekcbw/pymodhook",
     py_modules=['pymodhook'],
     packages=["."],
     include_package_data=True,

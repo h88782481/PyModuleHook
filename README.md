@@ -265,3 +265,7 @@ Example of `var_dump.txt`:
   ...  
 }  
 ```
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ekcbw/pymodhook&type=date&legend=top-left)](https://www.star-history.com/#ekcbw/pymodhook&type=date&legend=top-left)

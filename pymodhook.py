@@ -14,7 +14,7 @@ except ImportError:
     ObjChain = ProxiedObj = type("",(),{})
     if "setup.py" not in sys.argv[0].lower():raise
 
-__version__ = "1.0.4"
+__version__ = "1.0.5"
 __all__ = ["hook_module","hook_modules","unhook_module",
            "dump_scope","enable_hook","disable_hook","init_hook",
            "get_code","get_optimized_code","get_scope_dump",
